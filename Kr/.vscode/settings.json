@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "boundary": "OpenFOAM",
+        "T": "OpenFOAM",
+        "U": "OpenFOAM",
+        "p": "OpenFOAM",
+        "p_rgh": "OpenFOAM",
+        "controlDict": "OpenFOAM",
+        "fvSchemes": "OpenFOAM",
+        "fvSolution": "OpenFOAM",
+        "g": "OpenFOAM",
+        "cellToRegion": "OpenFOAM",
+        "vector": "cpp"
+    }
+}
